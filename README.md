@@ -35,8 +35,10 @@ This app follows the **Model-View-Controller (MVC)** design pattern:
 
 ## 📷 Screenshots
 
-> _(Optional: Add screenshots of your app interface here for better presentation)_
-
+![distribution graphic](https://github.com/robert1357/normalidad/blob/main/1.png?raw=true)
+![distribution graphic](https://github.com/robert1357/normalidad/blob/main/2.png?raw=true)
+![distribution graphic](https://github.com/robert1357/normalidad/blob/main/3.png?raw=true)
+![distribution graphic](https://github.com/robert1357/normalidad/blob/main/image.png?raw=true)
 ## 📦 Installation
 
 To run the app locally, follow these steps:
