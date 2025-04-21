@@ -39,11 +39,3 @@ This app follows the **Model-View-Controller (MVC)** design pattern:
 ![distribution graphic](https://github.com/robert1357/normalidad/blob/main/2.png?raw=true)
 ![distribution graphic](https://github.com/robert1357/normalidad/blob/main/3.png?raw=true)
 ![distribution graphic](https://github.com/robert1357/normalidad/blob/main/image.png?raw=true)
-## 📦 Installation
-
-To run the app locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/statistical-analysis-app.git
-   cd statistical-analysis-app
